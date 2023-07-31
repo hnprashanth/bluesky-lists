@@ -117,6 +117,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Faizal Khan @faizal.bsky.social](https://bsky.app/profile/faizal.bsky.social)
 - [Jones Zachariah Noel @zachjonesnoel.bsky.social](https://bsky.app/profile/zachjonesnoel.bsky.social)
 - [Takahiro Horike @horike.bsky.social](https://bsky.app/profile/horike.bsky.social)
+- [Yasunori Kirimoto @dayjournal.dev](https://bsky.app/profile/dayjournal.dev)
 
 ## AWS Community Builders
 
