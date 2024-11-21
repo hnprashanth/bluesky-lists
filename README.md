@@ -42,7 +42,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Justin Stanley @justintstanley.bsky.social](https://bsky.app/profile/justintstanley.bsky.social)
 - [James Eastham @plantpowerjames.bsky.social](https://bsky.app/profile/plantpowerjames.bsky.social)
 - [Nick Smit @nickste.bsky.social](https://bsky.app/profile/nickste.bsky.social)
-- [Werner Vogels @wernerv.bsky.social](https://bsky.app/profile/wernerv.bsky.social)
+- [Werner Vogels @werner.social](https://bsky.app/profile/werner.social)
 - [Erik Hanchett @erikch.bsky.social](https://bsky.app/profile/erikch.bsky.social)
 - [Michael Hausenblas @mhausenblas.info](https://bsky.app/profile/mhausenblas.info)
 - [René Brandel @renebrandel.bsky.social](https://bsky.app/profile/renebrandel.bsky.social)
