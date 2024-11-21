@@ -118,6 +118,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Jones Zachariah Noel @zachjonesnoel.bsky.social](https://bsky.app/profile/zachjonesnoel.bsky.social)
 - [Takahiro Horike @horike.bsky.social](https://bsky.app/profile/horike.bsky.social)
 - [Yasunori Kirimoto @dayjournal.dev](https://bsky.app/profile/dayjournal.dev)
+- [Prashanth HN @prashanth.net](https://bsky.app/profile/prashanth.net)
 
 ## AWS Community Builders
 
@@ -128,6 +129,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Matt Martz @martz.codes](https://bsky.app/profile/martz.codes)
 - [Matt Morgan @mattmorgan.cloud](https://bsky.app/profile/mattmorgan.cloud)
 - [Kosuke Enomoto @coosuke.bsky.social](https://bsky.app/profile/coosuke.bsky.social)
+- [Vishwasa Navada K @vishwas.tech](https://bsky.app/profile/vishwas.tech)
 
 ## AWS User Group Leaders
 
